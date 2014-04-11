@@ -3,3 +3,8 @@
 
 ---
 
+
+This is a simple project meant to track my workout progress. It currently
+logs my workout in an external file, but future versions will track more
+advanced workouts as well as allow for analytics.
+
